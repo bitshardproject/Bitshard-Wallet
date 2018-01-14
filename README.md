@@ -17,6 +17,12 @@ git submodule add https://github.com/bitshardproject/bitshard.git bitshard
 ```
 
 
+**3. Install this dependency:**
+
+```
+sudo apt-get install qt5-default
+```
+
 **4. Build**
 
 ```
